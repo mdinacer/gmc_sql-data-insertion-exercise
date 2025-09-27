@@ -1,0 +1,1 @@
+# gmc_sql-data-insertion-exercise
